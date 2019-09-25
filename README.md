@@ -2,11 +2,13 @@
 Pascale Triangle's Algo in C#
 
 The Algorithm : 
+*********************
 
 using System;
 
 namespace ta
 {
+
 	class Program
 	{
 
@@ -46,6 +48,7 @@ namespace ta
 			}
 			
 			Console.ReadKey(true);
+			
 		}
 	}
 }
