@@ -31,13 +31,12 @@ namespace ta
 			
 				
 			}
-			
+			// Output the matrix
 			for (int i=0;i<n;i++)
 			{
 			//	Console.Write("|");
 				for (int j=0;j<=n;j++) Console.Write("--");
 				Console.WriteLine("");
-				//Console.Write("Row N`"+(i+1)+"|");
 				            
 				for (int j=-1;j<i;j++)
 				{
