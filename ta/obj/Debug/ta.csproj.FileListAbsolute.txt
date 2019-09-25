@@ -1,0 +1,6 @@
+C:\Users\safil\Documents\SharpDevelop Projects\ta\ta\bin\Debug\ta.exe.config
+C:\Users\safil\Documents\SharpDevelop Projects\ta\ta\bin\Debug\ta.exe
+C:\Users\safil\Documents\SharpDevelop Projects\ta\ta\bin\Debug\ta.pdb
+C:\Users\safil\Documents\SharpDevelop Projects\ta\ta\obj\Debug\ta.csprojResolveAssemblyReference.cache
+C:\Users\safil\Documents\SharpDevelop Projects\ta\ta\obj\Debug\ta.exe
+C:\Users\safil\Documents\SharpDevelop Projects\ta\ta\obj\Debug\ta.pdb
